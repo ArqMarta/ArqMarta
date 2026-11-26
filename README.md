@@ -5,7 +5,7 @@
  ### Main skills:
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
  ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
- ![Sass](https://img.shields.io/badge/SASS-3776AB?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
+ ![Sass](https://img.shields.io/badge/SASS-3776AB?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
  
 <!--
 **ArqMarta/ArqMarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
